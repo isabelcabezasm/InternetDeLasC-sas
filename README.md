@@ -1,5 +1,6 @@
-# InternetDeLasC-sas
-Slides
+# Internet De Las C@sas
+## (Internet of things/homes)
+## Slides
 
 I share my presentation and @julietsvq's of the [Gapand 2017](https://gapand.com/) and [.NetMalaga 2017](http://dotnetmalaga.es/2017/)
 
